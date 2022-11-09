@@ -1,0 +1,11 @@
+.hero-body {
+  background-image: url(https://my.neighbor.org/wp-content/uploads/2020/08/reasons-to-buy-from-thrift-stores-960x640.jpg) !important;
+  background-size: cover;
+}
+
+.is-primary {
+  background-color: rgb(60, 60, 247) !important;
+}
+#buttoon {
+  margin-top: 170px;
+}
